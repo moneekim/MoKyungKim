@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### How to reach me? 🤔 
 - 📮 **My email ...**[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:monee97101@gmail.com)](mailto:monee97101@gmail.com)
-- 📒 **My blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+- 📒 **My blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://monee1001.tistory.com)](https://monee1001.tistory.com)
 - 📺 **My Instagram ...**[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/goodmoneeing/)](https://www.instagram.com/goodmoneeing/)
 
 <!--
