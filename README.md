@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 
 - 💻 **I'm a iOS Develover** (2021.07~) 
-- 🏫 I am currently attending the last semester of my fourth year at KAU.(2018.03~2022.02)
+- 🏫 I am currently attending the last semester of my fourth year at KAU(2018.03~2022.02).
 - 🇰🇷 I'm working in South Korea 
 - I'm very interested in **Android, iOS APP development**.
 - I hope my app can bring benefits to people.
