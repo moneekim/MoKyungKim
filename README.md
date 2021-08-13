@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MoKyungKim/MoKyungKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +16,8 @@ Here are some ideas to get you started:
 ### Hi there 👋 
 - 💻 **I'm a iOS Develover** 
 - 🇰🇷 **I'm working in South Korea** 
+- I'm very interested in Android, iOS APP development.
+- I hope my app can bring benefits to people.
 
 ### How to reach me? 🤔 
 - 📮 **Fomagran's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:fomagran6@gmail.com) 
