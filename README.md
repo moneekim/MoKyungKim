@@ -13,14 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 
-- 💻 **I'm currently learning iOS APP development** (2021.07~) 
-- 🏫 I am currently attending the last semester of my fourth year at KAU(2018.03~2022.02).
-- 🇰🇷 I'm working in South Korea 
-- I'm very interested in **Android, iOS APP development**.
-- I hope my app can bring benefits to people.
-
-
 ### How to reach me? 🤔 
 - 📮 **My email ...**[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:monee97101@gmail.com)](mailto:monee97101@gmail.com)
 - 📒 **My blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://monee1001.tistory.com)](https://monee1001.tistory.com)
